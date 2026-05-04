@@ -1,0 +1,14 @@
+html {
+  background: #f4f4f5;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: Consolas, "Courier New", monospace;
+}
